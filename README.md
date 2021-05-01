@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Sarah and I'm currently studying a master in data science at University of Shourtern Denmark 
+- 👀 I’m interested in Machine learning, Operation Research & Processes 
+- 🌱 I’m currently learning anything my education offers me. 
+- 💞️ I’m looking to collaborate on data driven operation research projects.
+- 📫 Reach me at https://www.linkedin.com/in/sarah-anne-pedersen/ & saped13@student.sdu.dk
